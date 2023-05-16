@@ -32,6 +32,7 @@ public class TopAction extends ActionBase {
         invoke();
 
         service.close(); //追記
+
     }
 
     /**
